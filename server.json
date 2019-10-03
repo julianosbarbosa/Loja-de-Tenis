@@ -30,37 +30,37 @@
       "id": 1,
       "title": "Tênis de Caminhada Leve Confortável",
       "price": 179.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "image": "https://static.netshoes.com.br/produtos/tenis-mizuno-wave-prophecy-8-masculino/24/D16-2704-124/D16-2704-124_zoom1.jpg"
     },
     {
       "id": 2,
       "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
       "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "image": "https://static.netshoes.com.br/produtos/tenis-nike-shox-nz-eu-masculino/14/D12-9970-014/D12-9970-014_zoom1.jpg"
     },
     {
       "id": 3,
       "title": "Tênis Adidas Duramo Lite 2.0",
       "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "image": "https://static.netshoes.com.br/produtos/tenis-puma-cell-aether-nature-bdp-masculino/06/D14-7697-006/D14-7697-006_zoom1.jpg"
     },
     {
       "id": 5,
       "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
       "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "image": "https://static.netshoes.com.br/produtos/tenis-reebok-spartan-all-terrian-thrill/10/D19-1610-010/D19-1610-010_zoom1.jpg"
     },
     {
       "id": 6,
       "title": "Tênis Adidas Duramo Lite 2.0",
       "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "image": "https://static.netshoes.com.br/produtos/tenis-adidas-springblade-pro-feminino/08/D13-5794-008/D13-5794-008_zoom1.jpg"
     },
     {
       "id": 4,
       "title": "Tênis de Caminhada Leve Confortável",
       "price": 179.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "image": "https://static.netshoes.com.br/produtos/tenis-asics-gel-kayano-26-shine-mako-masculino/12/D18-4937-012/D18-4937-012_zoom1.jpg"
     }
   ]
 }
